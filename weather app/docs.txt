@@ -1,5 +1,5 @@
 doubts:
     ->no doubts
 new things:
-    ->learnt how to use api
+    ->learned how to use api
     ->spellcheck
